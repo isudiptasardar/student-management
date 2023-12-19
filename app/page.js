@@ -1,6 +1,6 @@
 export default function Home (){
 
   return(
-    <h1>Hello H!</h1>
+    <h1>Index Homepage</h1>
   )
 }
